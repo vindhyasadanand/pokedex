@@ -1,0 +1,5 @@
+.pokelist {
+  display: flex;
+  flex-direction: flex-start;
+  flex-wrap: wrap;
+}
